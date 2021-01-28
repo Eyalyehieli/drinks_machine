@@ -1,0 +1,26 @@
+<drinks>
+  <drink>
+    <name>שוקו</name>
+    <sugar>2.5</sugar>
+    <cacao>1.5</cacao>
+    <cofee>0.5</cofee>
+    <milk>2</milk>
+    <price>1</price>
+  </drink>
+  <drink>
+    <name>קפה</name>
+    <sugar>1.5</sugar>
+    <cacao>0.5</cacao>
+    <cofee>2</cofee>
+    <milk>2</milk>
+    <price>5.5</price>
+  </drink>
+  <drink>
+    <name>משקה</name>
+    <sugar>3</sugar>
+    <cacao>2.5</cacao>
+    <cofee>3</cofee>
+    <milk>3</milk>
+    <price>3</price>
+  </drink>
+</drinks>
